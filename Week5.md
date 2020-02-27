@@ -1,3 +1,5 @@
+![]({{site.baseurl}}/Mindmap.JPG)![Mindmap.JPG]({{site.baseurl}}/Mindmap.JPG)
+
 * Briefly explain the main idea behind the idea/technology you're researching, what is it exactly? what is it for? How does it work?
 - WeChat is a multi- purpose messaging, social media and mobile payment app
 - It is like a combination of all the existing social media apps, like Instagram, Facebook, messengers, WhatsApp... 
